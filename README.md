@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Estrella-designer
-- 👀 I’m interested in programming/coding, drawing, singing, playing the piano, solving problems, and gaining a scholarship to the university of Oxford.
-- 🌱 I’m currently learning how to make my own portfolio
+- 👀 I’m interested in programming/coding, drawing, singing, playing the piano, solving problems, and gaining a scholarship to the university of MIT.
+- 🌱 I’m currently learning how code multiple languages
+- SPECIAL QUOTE : "You need to learn how to code your future and debugg your dreams"
 
 
 <!---
